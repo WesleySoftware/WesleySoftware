@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WesleySoftware
 - 👀 I’m interested in having a good time
-- 🌱 I’m currently learning cloud security and reverse engineering
+- 🌱 I’m currently learning what I can
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
